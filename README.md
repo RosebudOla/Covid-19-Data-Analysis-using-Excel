@@ -12,5 +12,4 @@ The dataset was opened in Excel for exploration, cleaning and analysis using piv
 ----
 # Data Visualization
 Excel and Excel Pivot Charts was used to visualize findings for better analysis and understanding. 
-
 ----
