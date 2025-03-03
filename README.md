@@ -2,7 +2,7 @@
 
 ----
 # Problem statement: Objective
-The COVID-19 pandemic has affected millions worldwide, leading to significant health and economic challenges. This analysis examines the global spread of the virus by evaluating confirmed cases, death rates, and key trends across various countries. The study aims to highlight the most and least affected countries and provide insights into the overall impact of the pandemic. create a dashboard using Excel to help support public health decisions and responses.
+The COVID-19 pandemic has affected millions worldwide, leading to significant health and economic challenges. This analysis examines the global spread of the virus by evaluating confirmed cases, death rates, and key trends across various countries. The study aims to highlight the most and least affected countries and provide insights into the overall impact of the pandemic, and creating a dashboard using Excel to help support public health decisions and responses.
 ----
 # Data Sourcing
 The data set was sourced from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University and scraped from Github
