@@ -11,7 +11,7 @@ The data set was sourced from COVID-19 Data Repository by the Center for Systems
 The dataset was opened in Excel for exploration, cleaning and analysis using pivot tables. The dataset was further checked for duplicates and null values.Data types were crosschecked and adjusted.
 ----
 # Data Visualization
-Excel and Excel Pivot Charts was used to visualize findings for better analysis and understanding. 
+Excel and Excel Pivot Charts was used to visualize findings for better analysis and understanding.
 ----
 # Findings and Insights
 The United States recorded the highest number of confirmed COVID-19 cases, significantly outpacing other nations.
